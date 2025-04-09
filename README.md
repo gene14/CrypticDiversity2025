@@ -38,7 +38,7 @@ Welcome to the **Standing genetic variation and introgression shape the cryptic 
 
 **(14)** **3.Balancing_selection.sh:**  Screens loci under balancing selection using the `betascan` tool.
 
-**(15) 4.cor_among_all.R:** Explores correlations among genomic divergence, diversity, genetic architecture, and introgression events.
+**(15) 4.cor_among_all.R:** Explores correlations among genomic divergence, diversity, genetic architecture, and introgressions.
 
 **(16) 5.cor_fst_pi_GN_RR_da.R:** Investigates the link between genomic diversity and selection by analyzing correlations between diversity metrics and genomic architecture over time, proxied by da.
 
