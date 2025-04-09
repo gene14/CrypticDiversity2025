@@ -1,6 +1,6 @@
-# CrypDiversity-2025
+# CrypticDiversity-2025
 
-Welcome to the **Evolution of Cryptic Diversity: Standing Genetic Variation and Introgression Together Shape the Radiation of *Aquilegia* in the Mountains of Southwest China** project. This repository contains the scripts and workflows used to explore the genomic mechanisms underlying the rapid formation of cryptic diversity in *Aquilegia* species from the Southwest China. 
+Welcome to the **Standing genetic variation and introgression shape the cryptic radiation of *Aquilegia* in the mountains of Southwest China** project. This repository contains the scripts and workflows used to explore the genomic mechanisms underlying the rapid formation of cryptic diversity in *Aquilegia* species from the Southwest China. 
 
 ## Part 1: Read Alignment, SNP Calling, and Filtering
 
@@ -26,9 +26,9 @@ Welcome to the **Evolution of Cryptic Diversity: Standing Genetic Variation and 
 
 **(9)** **1-smcpp.sh**: Estimates the demographic history using `smc++`, incorporating both variant and invariant SNPs.
 
-**(10) 2-QUIBL.sh:** Estimates introgression and incomplete lineage sorting (ILS) among the *KRE* group using `QUIBL`.****
+**(10) 2-QUIBL.sh:** Estimates introgression and incomplete lineage sorting (ILS) among lineages using `QUIBL`.****
 
-(**11)** **3-Dsuite.sh**: Quantifies the proportions of introgression among *KRE* group populations with `Dsuite`.****
+(**11)** **3-Dsuite.sh**: Quantifies the proportions of introgression among lineages with `Dsuite`.****
 
 ## Part 4. The formation of genomic island
 
