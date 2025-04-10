@@ -42,7 +42,7 @@ Welcome to the **Standing genetic variation and introgression shape the cryptic 
 
 **(16) 5.cor_fst_pi_GN_RR_da.R:** Investigates the link between genomic diversity and selection by analyzing correlations between diversity metrics and genomic architecture over time, proxied by da.
 
-**(17) 6.FST_dxy_outliers_poplevel.R:** Compares genomic islands between sympatric and allopatric population pairs, focusing on *F*~ST~ and dxy metrics.
+**(17) 6.FST_dxy_outliers_poplevel.R:** Compares genomic islands between sympatric and allopatric population pairs, focusing on *F*st and dxy metrics.
 
 ## Part 5. The formation of loci of the morphologically conservative
 
