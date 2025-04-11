@@ -14,6 +14,7 @@ zdxy1 <- zfst_zdxy_zpi_naomit[,18:72]
 zfst1 <- zfst_zdxy_zpi_naomit[,73:127]
 zall_pos <- zfst_zdxy_zpi_naomit[,2:6]
 ## principle analysis
+###Here you need to check whether the correlation coefficient between pc1 and all values ​​is positively correlated.
 zpi_pca <- prcomp(zpi1) ### Proportion of Variance of pc1: 0.3413
 zdxy_pca <- prcomp(zdxy1) ### Proportion of Variance of pc1: 0.5018
 zfst_pca <- prcomp(zfst1) ### Proportion of Variance of pc1: 0.3158

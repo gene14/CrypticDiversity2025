@@ -1,4 +1,4 @@
-### AIMS: using the da as the 
+### AIMS: using the da as the proxy off divergence time
 library(reshape)
 library(ggpubr)
 library(ggplot2)
