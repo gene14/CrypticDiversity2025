@@ -18,3 +18,5 @@ for i in {1..2770}
 do
 echo "iqtree -s A_kansu.window${i}.min4.phy  -bb 1000 -o TB11,TB12,TB13" >> treefile_iqtree/1.sh
 done
+
+java -jar ./Astral/astral.5.7.3.jar -i all2770.tre -o species_quarter_support.tre -t 1 &2 > species_quarter_support.log
