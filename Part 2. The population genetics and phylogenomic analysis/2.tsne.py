@@ -1,7 +1,6 @@
 ## Python
 ## Time: 2021-6-3
 ## Used for t-sne analysis based on unlink SNP
-## Author: Junchu Peng
 import pandas as pd
 from sklearn.manifold import TSNE
 from bioinfokit.visuz import cluster

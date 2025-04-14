@@ -5,7 +5,6 @@
 # Aims: Mapping fastq.gz file to a reference genome
 # Time: 2021-06-03
 # Modified from: Xiangguang Ma
-# Author: Junchu Peng 
 
 # Loop through the names listed in the file "list2"
 for sample in $(cat list2)

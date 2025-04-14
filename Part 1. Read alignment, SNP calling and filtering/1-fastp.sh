@@ -3,7 +3,6 @@
 # Language: Shell
 # Aims: Filtering raw reads using the fastp tool
 # Time: 2021-06-02
-# Author: Junchu Peng
 
 # Loop through the names listed in the file "list2"
 for name in $(cat list2)

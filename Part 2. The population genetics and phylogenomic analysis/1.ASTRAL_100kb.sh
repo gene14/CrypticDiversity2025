@@ -1,5 +1,4 @@
 ### AIM: to construct the ASTRAL species tree
-### AUTHOR: Junchu Peng
 ### step1: Build a bed file of the entire genome with a window size of 100kb
 mkdir bedfile
 for i in {1..2770}

@@ -1,7 +1,6 @@
 ## Aim: Used for calling variations with GATK
 ## Time: 2021-6-4
 ## Software used: GATK
-## Author: Junchu Peng
 
 # The script performs HaplotypeCaller from GATK on the input BAM files.
 # BAM files are generated from aligning the paired-end FASTQ files to reference genome.
