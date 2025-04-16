@@ -1,6 +1,6 @@
 # CrypticDiversity-2025
 
-Welcome to the **Standing genetic variation and introgression shape the cryptic radiation of *Aquilegia* in the mountains of Southwest China** project. This repository contains the scripts and workflows used to explore the genomic mechanisms underlying the rapid formation of cryptic diversity in *Aquilegia* species from the Southwest China.  The manuscript was submit to Communications Biology.
+Welcome to the **Standing genetic variation and introgression shape the cryptic radiation of *Aquilegia* in the mountains of Southwest China**  project. This repository contains the scripts and workflows used to explore the genomic mechanisms underlying the rapid formation of cryptic diversity in *Aquilegia* species from the Southwest China (Peng et al., 2025, Communications Biology, accepted).
 
 ## Part 1: Read Alignment, SNP Calling, and Filtering
 
